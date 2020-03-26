@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pylint mysdk test
+pylint my_services test
